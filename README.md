@@ -8,6 +8,18 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
+## Website
+
+The project includes a live website with two pages:
+
+- **Landing page** — project info, install guide, download button
+- **Monitor demo** — browser-based live dashboard
+
+🌐 [Visit Website]
+
+https://terminal-system-monitor.onrender.com
+
+---
 
 ## Features
 
@@ -140,18 +152,7 @@ pyinstaller --onefile --console sysmon.py
 
 ---
 
-## Website
 
-The project includes a live website with two pages:
-
-- **Landing page** — project info, install guide, download button
-- **Monitor demo** — browser-based live dashboard
-
-🌐 [Visit Website]
-
-https://terminal-system-monitor.onrender.com
-
----
 
 👤 Author
 
